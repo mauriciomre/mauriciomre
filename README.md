@@ -23,7 +23,3 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/mauricio-encina-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauricio%20Encina-blue?style=flat-square&logo=linkedin"></a>
 <a href="maurixmre@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-maurixmre@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauriciomre&show_icons=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauriciomre" /> </p>
