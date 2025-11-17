@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### About Me
-- I am 31 years old and I am from Villa María, Córdoba, Argentina.
+- I am 33 years old and I am from Villa María, Córdoba, Argentina.
 - I am a MERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
